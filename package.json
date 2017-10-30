@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js",
     "start": "node index.js"
   },
   "repository": {
@@ -22,6 +23,8 @@
   },
   "homepage": "https://github.com/alfumit/nodejs-course#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "jquery": "^3.2.1"
   }
 }
