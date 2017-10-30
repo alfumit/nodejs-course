@@ -1,2 +1,2 @@
-# nodjs-course
-A repository for nodejs courses
+# nodejs-course
+A repository for nodejs courses on JavaScript.ru
