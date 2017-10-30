@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-course",
+  "version": "0.0.1",
+  "description": "This is a nodejs repo for JavaScript.ru training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfumit/nodejs-course.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript.ru"
+  ],
+  "author": "Alexander Fedotov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfumit/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/alfumit/nodejs-course#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
