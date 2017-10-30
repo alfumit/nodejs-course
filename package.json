@@ -21,7 +21,7 @@
     "url": "https://github.com/alfumit/nodejs-course/issues"
   },
   "homepage": "https://github.com/alfumit/nodejs-course#readme",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.16.2"
   }
 }
